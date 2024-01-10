@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center"><a href="https://h3xik.github.io"><img width="100%" alt="Čau! Jsem Jirka. Rád tvořím software :)" src="./images/this.jiri_banner2.png" /></a></p>
+
+<br />
+
+Jsem zapálený FullStackář z Český republiky, který se vzdělává sám 🇨🇿
+
+**O mně**
+- ✏️ Student na Průmyslovce v Liberci
+- 😄 Vytvořil několik menších programů v C#, více než 2 zobrazení a 1 hvězda na GitHubu
+- ❤️ Největší zkušenosti mám s front-endem, ale poslední dobou mě baví víc back-end, ten mix logiky za obrazovkou.
 
 <!--
 **h3xik/h3xik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
