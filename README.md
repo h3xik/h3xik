@@ -6,7 +6,7 @@ Jsem zapálený FullStackář z Český republiky, který se vzdělává sám �
 
 **O mně**
 - ✏️ Student na Průmyslovce v Liberci
-- 😄 Vytvořil několik menších programů v C#, více než 2 zobrazení a 1 hvězda na GitHubu
+- 💪🏻 Vytvořil několik menších programů v C#, více než 2 zobrazení a 1 hvězda na GitHubu /s
 - ❤️ Největší zkušenosti mám s front-endem, ale poslední dobou mě baví víc back-end, ten mix logiky za obrazovkou.
 
 <!--
