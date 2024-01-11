@@ -2,7 +2,7 @@
 
 <br />
 
-Jsem zapálený FullStackář z Český republiky, který se vzdělává sám 🇨🇿
+Jsem zapálený FullStackář z Český republiky, který se vzdělává primárně sám 🇨🇿
 
 **O mně**
 - ✏️ Student na Průmyslovce v Liberci
