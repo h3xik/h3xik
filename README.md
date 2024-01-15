@@ -7,7 +7,7 @@ Jsem zapálený FullStackář z Český republiky, který se vzdělává primár
 **O mně**
 - ✏️ Student na Průmyslovce v Liberci
 - 💪🏻 Vytvořil několik menších programů v C#, více než 2 zobrazení a 1 hvězda na GitHubu /s
-- ❤️ Největší zkušenosti mám s front-endem, ale poslední dobou mě baví víc back-end, ten mix logiky za obrazovkou.
+- ❤️ Největší zkušenosti mám s front-endem, ale poslední dobou mě baví víc back-end, ten mix logiky co člověk nevidí.
 
 <!--
 **h3xik/h3xik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
