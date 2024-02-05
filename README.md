@@ -10,12 +10,20 @@ Jsem zapálený FullStackář z Český republiky, který se vzdělává primár
 
 <br />
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=190 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=h3xik&theme=transparent&title_color=FF453a&text_color=FEFEFE" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3xik&layout=compact&langs_count=8&theme=transparent&title_color=FF453a&text_color=FEFEFE" />
+</a>
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=h3xik&theme=transparent&title_color=FF453a&text_color=FEFEFE" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3xik&layout=compact&langs_count=8&theme=transparent&title_color=FF453a&text_color=FEFEFE&card_width=320" />
 </a>
 
 <!--
