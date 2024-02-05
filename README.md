@@ -12,7 +12,7 @@ Jsem zapálený FullStackář z Český republiky, který se vzdělává primár
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h3xik&theme=transparent&include_all_commits=true&title_color=FF453a&text_color=FEFEFE" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h3xik&theme=transparent&title_color=FF453a&text_color=FEFEFE" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3xik&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=FF453a&text_color=FEFEFE" />
